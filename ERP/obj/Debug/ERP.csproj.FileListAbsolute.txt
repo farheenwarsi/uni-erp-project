@@ -1,0 +1,45 @@
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Debug\PC_DB.accdb
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Customer.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.deliveryChalan.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Form2.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Form3.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Form4.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Grn.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Invoice.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.myConnection.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Products.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.purchaseOrder.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.receivedChallan.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.saleOrder.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.Vendor.resources
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Haider\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Haider\Desktop\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Haider\Desktop\ERP\ERP\bin\Debug\PC_DB.accdb
+C:\Users\Haider\Desktop\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Haider\Desktop\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Customer.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.deliveryChalan.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Form1.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Form2.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Form3.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Form4.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Grn.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Invoice.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.myConnection.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Products.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.purchaseOrder.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.receivedChallan.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.saleOrder.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.Vendor.resources
+C:\Users\Haider\Desktop\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
